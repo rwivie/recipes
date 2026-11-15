@@ -89,6 +89,13 @@ ogc/0030-FROM-ML-drm-amd-display-Support-HDMI-VRRmax-0.patch
 ogc/0031-FROM-ML-drm-amd-display-Add-debugfs-override-for-HDM.patch
 ogc/0032-FROM-ML-drm-amd-display-test-stream-VRR-updates.patch
 ogc/0033-FROM-ML-drm-amd-display-test-VRR-IRQ-parameters.patch
+ogc/0034-FROM-ML-drm-edid-Parse-HDMI-2.2-FRL-rates-from-the-S.patch
+ogc/0035-FROM-ML-drm-amd-display-Accept-HDMI-2.2-FRL-rates-fr.patch
+ogc/0036-FROM-ML-drm-amd-display-refresh-cached-HDMI-FreeSync.patch
+ogc/0037-FROM-ML-drm-amd-display-Signal-PQ-EOTF-in-FreeSync-i.patch
+ogc/0038-FROM-ML-drm-Add-passive_vrr-properties-for-passive-d.patch
+ogc/0039-FROM-ML-drm-amd-display-Use-passive_vrr-properties-i.patch
+ogc/0040-FROM-ML-drm-amd-display-Keep-FreeSync-for-HF-VSDB-VR.patch
 
 # https://patchwork.freedesktop.org/series/177064/
 hdmi/0001-drm-edid-Parse-HDMI-2-2-FRL-rates-from-the-SCDS.patch

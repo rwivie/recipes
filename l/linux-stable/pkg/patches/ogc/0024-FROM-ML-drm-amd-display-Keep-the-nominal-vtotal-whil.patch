@@ -1,7 +1,7 @@
-From 338ca273e235b0e164996be6a869104ff4da708c Mon Sep 17 00:00:00 2001
+From 8a737944544c58af8317657d2283ff6e6509d3cc Mon Sep 17 00:00:00 2001
 From: Matthew Schwartz <matthew.schwartz@linux.dev>
 Date: Mon, 19 Oct 2026 19:51:57 -0700
-Subject: [PATCH 24/33] [FROM-ML] drm/amd/display: Keep the nominal vtotal
+Subject: [PATCH 24/40] [FROM-ML] drm/amd/display: Keep the nominal vtotal
  while VRR is inactive
 
 Commit 33c995709121 ("drm/amd/display: Allow VRR params change if
